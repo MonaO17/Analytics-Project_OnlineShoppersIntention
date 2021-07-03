@@ -15,4 +15,4 @@ The notebook was programmed with Python in Kaggle
 This was a teamwork with Anja Gerstenberg
 
 # Sources
-All sources were marked in the notebook
+All sources are marked in the notebook
